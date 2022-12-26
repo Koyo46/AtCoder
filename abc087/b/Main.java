@@ -11,7 +11,6 @@ public class Main {
         int sum = sc.nextInt();
         int suma =sum;
         int sumb =sum;
-        int sumc =sum;
         int counta =0;
         int countb =0;
         int countc =0;
